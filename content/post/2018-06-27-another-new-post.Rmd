@@ -6,3 +6,8 @@ slug: another-new-post
 categories: []
 tags: []
 ---
+```{r can}
+library(dplyr)
+```
+
+hi
